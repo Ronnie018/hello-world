@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (999 total)
+## Languages (1000 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -732,6 +732,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Power Fx](p/Power%20Fx.pfx)
 * [PowerBuilder](p/PowerBuilder.psr)
 * [PowerShell](p/PowerShell.ps1)
+* [PowerQuery M](p/PowerQuery-M.m)
 * [Printscript](p/Printscript)
 * [Processing](p/Processing.pde)
 * [Profan](p/Profan)
