@@ -732,7 +732,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Power Fx](p/Power%20Fx.pfx)
 * [PowerBuilder](p/PowerBuilder.psr)
 * [PowerShell](p/PowerShell.ps1)
-* [PowerQuery M](p/PowerQuery-M.m)
+* [PowerQuery M](p/PowerQuery%20M.m)
 * [Printscript](p/Printscript)
 * [Processing](p/Processing.pde)
 * [Profan](p/Profan)
